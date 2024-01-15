@@ -17,8 +17,8 @@
             android:layout_marginBottom="@dimen/vs_5"
             android:gravity="center_vertical"
             android:orientation="vertical">
-            	
-        <TextView
+
+            <TextView
                 android:id="@+id/filterBtn"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/vs_50"
@@ -28,7 +28,7 @@
                 android:gravity="center"
                 android:text="@string/global_search"
                 android:textColor="@android:color/white"
-                android:textSize="@dimen/ts_20" />    
+                android:textSize="@dimen/ts_20" />
 
             <LinearLayout
                 android:layout_width="match_parent"
